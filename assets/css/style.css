@@ -1,0 +1,415 @@
+body {
+  background-color: #ebece8;
+}
+h1 {
+  font-family: "Lobster", cursive;
+  font-family: "Pacifico", cursive;
+}
+
+.opwiy {
+  background-color: ivory;
+  position: relative;
+}
+
+.ul-a ul a {
+  text-decoration: none;
+  color: #272727;
+  padding: 12px;
+}
+
+.ul-a ul a:hover {
+  color: #ff0000;
+}
+
+.ul-a {
+  margin-left: 150px;
+}
+
+.fa {
+  margin-left: 80px;
+}
+
+.suv {
+  background-color: #ffffff;
+}
+
+.text0 {
+  background-image: url(https://www.recipetineats.com/wp-content/uploads/2020/05/Pizza-Crust-without-yeast_5-SQ.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 997px;
+  height: 700px;
+}
+
+.non {
+  margin-left: 30px;
+}
+
+button {
+  color: white;
+  background-color: #e42626;
+  font-weight: 800;
+  font-size: 25px;
+  margin: 50px 10px;
+  border: 10px;
+  padding: 0 50px;
+  display: inline-block;
+}
+
+.text1 {
+  color: white;
+  font-weight: 900;
+  font-size: 90px;
+  display: inline-block;
+}
+
+.text2 {
+  color: orange;
+  font-weight: 900;
+  font-size: 70px;
+}
+
+.border {
+  border: 5px;
+  border-radius: 30px;
+  color: white;
+  background-color: #e42626;
+  padding: 15px 25px;
+  font-size: 20px;
+  margin-left: 150px;
+}
+
+.border:hover {
+  background-color: #3efc0e;
+}
+
+.coca {
+  background-image: url(https://see.news/wp-content/uploads/2019/08/FastFood.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 997px;
+  height: 700px;
+  font-weight: 900;
+}
+
+.cola {
+  padding-top: 150px;
+}
+
+.from {
+  color: white;
+  font-family: serif;
+  font-size: 30px;
+  padding-left: 70px;
+  padding-bottom: 15px;
+}
+
+.meet {
+  color: white;
+  font-family: cursive;
+  font-size: 60px;
+  padding-left: 50px;
+  padding-bottom: 15px;
+}
+
+.californiya {
+  color: orange;
+  font-family: cursive;
+  font-size: 40px;
+  padding-left: 30px;
+}
+
+.burger {
+  background-image: url(https://www.occasionallyeggs.com/wp-content/uploads/2018/09/Vegan-Mexican-black-bean-and-quinoa-burger-on-sesame-bun-with-lime-and-picked-onions-3.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 997px;
+  height: 700px;
+  font-weight: 900;
+}
+
+.burgr {
+  padding-top: 270px;
+}
+
+.hot {
+  margin-left: 100px;
+}
+
+.hot button {
+  color: white;
+  border: 10px;
+  background-color: #f53232;
+  font-weight: 700;
+  font-size: 40px;
+  font-family: serif;
+}
+
+.mex {
+  color: white;
+  font-family: cursive;
+  font-size: 60px;
+  padding-left: 90px;
+}
+
+.bur {
+  color: orange;
+  font-family: cursive;
+  font-size: 40px;
+  padding-left: 148px;
+  padding-top: 20px;
+}
+
+.for {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvhCUCwiSFb5gXToJALBr8GSFfQzcS01yGbg&usqp=CAU);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 200px;
+  display: inline-block;
+  width: 33%;
+}
+
+.off {
+  color: #ff0000;
+  background-color: transparent;
+  font-weight: 900;
+  font-size: 55px;
+  text-align: center;
+}
+
+.drink {
+  color: yellow;
+  text-align: center;
+  font-weight: 900;
+}
+
+.order {
+  background-image: url(https://modernrestaurantmanagement.com/assets/media/2018/08/Online-Food-Ordering-Total-Loyalty-Solutions-1.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  height: 200px;
+  display: inline-block;
+  width: 33%;
+}
+
+.every {
+  color: #000000;
+  text-align: center;
+  font-weight: 900;
+}
+
+.cake {
+  background-image: url(https://pimg.mycdn.me/getImage?url=http%3A%2F%2Fi.mycdn.me%2Fimage%3Fid%3D890745374022%26plc%3DUNKNOWN%26tkn%3D*vAKWC4RDbXO1sdId-vRzsa1DEj4%26fn%3Dtopic_link_1080&type=TOPIC_LINK_WIDE_548&signatureToken=R3Mq-XeugfuNqfL6MwPyrA);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 200px;
+  display: inline-block;
+  width: 33%;
+}
+
+.only {
+  color: yellow;
+  text-align: center;
+  font-weight: 900;
+}
+
+.our1 {
+  color: black;
+  font-weight: 900;
+  font-size: 30px;
+  font-family: cursive;
+  text-align: center;
+}
+
+.burgers {
+  color: grey;
+  background-color: #a2a39d;
+  border-radius: 20px;
+  padding: 5px 15px;
+}
+
+.burgers:hover {
+  color: #fff;
+  background-color: red;
+}
+
+.toast {
+  color: grey;
+  background-color: #a2a39d;
+  border-radius: 20px;
+  margin: 20px;
+  padding: 5px 15px;
+}
+
+.toast:hover {
+  color: #fff;
+  background-color: red;
+}
+
+.pizza {
+  color: grey;
+  background-color: #a2a39d;
+  border-radius: 20px;
+  margin: 20px;
+  padding: 5px 15px;
+}
+
+.pizza:hover {
+  color: #fff;
+  background-color: red;
+}
+
+.salads {
+  color: grey;
+  background-color: #a2a39d;
+  border-radius: 20px;
+  margin: 20px;
+  padding: 5px 15px;
+}
+
+.salads:hover {
+  color: #fff;
+  background-color: red;
+}
+
+.drinks {
+  color: grey;
+  background-color: #a2a39d;
+  border-radius: 20px;
+  margin: 20px;
+  padding: 5px 15px;
+}
+.drinks:hover {
+  color: #fff;
+  background-color: red;
+}
+
+.deserts {
+  color: grey;
+  background-color: #a2a39d;
+  border-radius: 20px;
+  margin: 20px;
+  padding: 5px 15px;
+}
+
+.deserts:hover {
+  color: #fff;
+  background-color: red;
+}
+
+.hammasi {
+  background-color: #ffffff;
+}
+
+.image {
+  width: 300px;
+  height: 200px;
+  display: inline-block;
+  width: 33%;
+}
+
+.image b {
+  font-size: 25px;
+  padding-left: 60px;
+}
+
+.image p {
+  font-size: 15px;
+  text-align: center;
+  color: #646462;
+}
+
+.puff {
+  color: #ff0000;
+  padding-left: 110px;
+}
+
+.bor {
+  border: 5px;
+  border-radius: 30px;
+  color: white;
+  background-color: #e42626;
+  padding: 15px 25px;
+  font-size: 20px;
+  margin-left: 45px;
+  margin-top: 20px;
+}
+
+.bor:hover {
+  background-color: lime;
+}
+
+.image1 {
+  width: 300px;
+  height: 200px;
+  display: inline-block;
+  width: 33%;
+}
+
+.image2 {
+  width: 300px;
+  height: 200px;
+  display: inline-block;
+  width: 33%;
+}
+
+.image1 b {
+  font-size: 25px;
+  padding-left: 60px;
+}
+
+.image2 b {
+  font-size: 25px;
+  padding-left: 60px;
+}
+
+.image1 p {
+  font-size: 15px;
+  text-align: center;
+  color: #646462;
+}
+
+.image2 p {
+  font-size: 15px;
+  text-align: center;
+  color: #646462;
+}
+
+.fre {
+  background-image: url(https://image.shutterstock.com/image-photo/glass-refreshing-cold-water-ice-260nw-1420335563.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 997px;
+  height: 700px;
+  font-weight: 900;
+  text-align: center;
+  padding-top: 100px;
+}
+
+.free {
+  color: #91ff00;
+}
+
+.deli {
+  color: black;
+  font-weight: 900;
+  font-size: 40px;
+  font-family: cursive;
+}
+
+.day {
+  color: black;
+  font-weight: 900;
+  font-size: 70px;
+  font-family: serif;
+}
+
+.all {
+  font-weight: 900;
+  font-size: 50px;
+  color: orangered;
+}
+
